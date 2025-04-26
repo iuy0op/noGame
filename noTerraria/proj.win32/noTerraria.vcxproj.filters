@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\CSU\noGame\noTerraria\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\CSU\noGame\noTerraria\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\noMenuScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\noWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\CSU\noGame\noTerraria\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\CSU\noGame\noTerraria\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\CSU\noGame\noTerraria\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\CSU\noGame\noTerraria\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\CSU\noGame\noTerraria\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\noMenuScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\noWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\CSU\noGame\noTerraria\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\CSU\noGame\noTerraria\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{FD7346DF-49F0-32ED-BE9E-E542219FF11E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{602A3FE6-8913-3935-95DB-C8D3EA009F40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{AA0CC5FF-6150-3597-B8D3-CC0D34799811}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C77864FB-1E61-3085-8095-3C352BC7DE23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{C17B97AC-2906-36B5-A3F6-2452C86F559B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{02748E3C-B8BE-387C-AB9A-4FF2A6E0CEA2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\sprites">
+      <UniqueIdentifier>{dea5256b-f93f-4f6b-8759-21e1f8964283}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="bin\noTerraria\Debug\Resources\heroStat.json">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\sprites\start_button.png">
+      <Filter>Resources\sprites</Filter>
+    </Image>
+    <Image Include="..\Resources\sprites\background.png">
+      <Filter>Resources\sprites</Filter>
+    </Image>
+    <Image Include="..\Resources\sprites\background_menu.png">
+      <Filter>Resources\sprites</Filter>
+    </Image>
+    <Image Include="..\Resources\sprites\character.png">
+      <Filter>Resources\sprites</Filter>
+    </Image>
+    <Image Include="..\Resources\sprites\earth_down.png">
+      <Filter>Resources\sprites</Filter>
+    </Image>
+    <Image Include="..\Resources\sprites\earth_up.png">
+      <Filter>Resources\sprites</Filter>
+    </Image>
+    <Image Include="..\Resources\sprites\test_character.png">
+      <Filter>Resources\sprites</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
