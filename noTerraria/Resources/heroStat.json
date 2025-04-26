@@ -1,0 +1,17 @@
+{
+    "hero": {
+        "level": 10,
+        "name": "hero",
+        "position": {
+            "x": 293.6651611328125,
+            "y": 97.99236297607422
+        },
+        "stats": {
+            "attack": 25,
+            "defense": 20,
+            "health": 150,
+            "mana": 30,
+            "speed": 15
+        }
+    }
+}
