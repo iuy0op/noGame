@@ -848,7 +848,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\CSU\noGame\noTerraria\cocos2d\cocos\precheader.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\noTerraria\Debug\Resources\heroStat.json" />
+    <None Include="..\Resources\heroStat.json" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

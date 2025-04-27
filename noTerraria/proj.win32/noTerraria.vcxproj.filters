@@ -76,7 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="bin\noTerraria\Debug\Resources\heroStat.json">
+    <None Include="..\Resources\heroStat.json">
       <Filter>Resources</Filter>
     </None>
   </ItemGroup>
